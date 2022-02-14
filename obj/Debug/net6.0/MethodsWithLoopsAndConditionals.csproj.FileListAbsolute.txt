@@ -1,0 +1,15 @@
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.exe
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.deps.json
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.runtimeconfig.json
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
+C:\Users\15103\repos\MethodsExcercise 3\bin\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.AssemblyReference.cache
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfoInputs.cache
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.AssemblyInfo.cs
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.csproj.CoreCompileInputs.cache
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.dll
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\ref\MethodsWithLoopsAndConditionals.dll
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.pdb
+C:\Users\15103\repos\MethodsExcercise 3\obj\Debug\net6.0\MethodsWithLoopsAndConditionals.genruntimeconfig.cache
